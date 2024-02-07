@@ -10,6 +10,25 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.flower-list {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.single-flower {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
