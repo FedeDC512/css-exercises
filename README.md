@@ -24,8 +24,9 @@
 - [ ] 02-grid-layout-2
 - [ ] 03-grid-layout-3
 ### Margin and Padding
-- [ ] 01-margin-and-padding-1
-- [ ] 02-margin-and-padding-2
+- [x] 01-margin-and-padding-1
+- [x] 02-margin-and-padding-2
+
 
 # CSS Exercises
 
